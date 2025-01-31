@@ -1,7 +1,5 @@
 ## Hi there, I'm Bohdan 👋
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
 🚀 **Software Developer | Open Source Enthusiast | Tech Explorer**
 
 ---
